@@ -1,2 +1,2 @@
 #!/bin/bash 
-tr -d C | tr -d c
+cat list | tr -d C | tr -d c
